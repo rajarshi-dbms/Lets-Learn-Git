@@ -2,6 +2,8 @@
 
 int main()
 {
-    cout<<"hellow world"<<endl;
+    
+    cout<<"hi"<<endl;
+    
     return 0;
 }
